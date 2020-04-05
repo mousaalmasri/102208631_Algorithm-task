@@ -23,7 +23,17 @@ namespace BinarySearch
                 x[k] = Int32.Parse(datasample);
                 k++;
             }
-            int theValue = 992406;  //the largest number
+
+            /*
+             * the result of the number is 575154: 8677            the result of the number is 45231: 638
+             * the result of the number is 182339: 2694            the result of the number is 580: 7  
+             * the result of the number is 17132: 269             the result of the number is 629822:9504
+             * the result of the number is 296934:4451
+             * the result of the number is 991395:14867
+             * the result of the number is 303270:4537
+             *  
+                   */
+            int theValue = 629822;  //the largest number 
 
             Console.Write($"\n\nthe reslut of a binary search for {theValue} is : ");
             Console.WriteLine(binarySearch(x, theValue));

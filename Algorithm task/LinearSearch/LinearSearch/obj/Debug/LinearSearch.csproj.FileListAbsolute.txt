@@ -4,3 +4,10 @@ D:\users\mousa\source\repos\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
 D:\users\mousa\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojAssemblyReference.cache
 D:\users\mousa\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
 D:\users\mousa\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojAssemblyReference.cache
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

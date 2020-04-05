@@ -4,3 +4,10 @@ D:\users\mousa\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
 D:\users\mousa\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
 D:\users\mousa\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
 D:\users\mousa\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\users\mousa\Documents\GitHub\102208631_Algorithm-task\Algorithm task\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
