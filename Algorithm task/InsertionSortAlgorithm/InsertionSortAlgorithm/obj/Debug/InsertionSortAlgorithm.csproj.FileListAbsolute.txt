@@ -1,0 +1,6 @@
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\InsertionSortAlgorithm.exe.config
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\InsertionSortAlgorithm.exe
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\InsertionSortAlgorithm.pdb
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\InsertionSortAlgorithm.csprojAssemblyReference.cache
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\InsertionSortAlgorithm.exe
+D:\users\mousa\source\repos\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\InsertionSortAlgorithm.pdb

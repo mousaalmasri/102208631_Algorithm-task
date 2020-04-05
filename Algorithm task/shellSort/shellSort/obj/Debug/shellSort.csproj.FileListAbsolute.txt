@@ -1,0 +1,6 @@
+D:\users\mousa\source\repos\shellSort\shellSort\bin\Debug\shellSort.exe.config
+D:\users\mousa\source\repos\shellSort\shellSort\bin\Debug\shellSort.exe
+D:\users\mousa\source\repos\shellSort\shellSort\bin\Debug\shellSort.pdb
+D:\users\mousa\source\repos\shellSort\shellSort\obj\Debug\shellSort.csprojAssemblyReference.cache
+D:\users\mousa\source\repos\shellSort\shellSort\obj\Debug\shellSort.exe
+D:\users\mousa\source\repos\shellSort\shellSort\obj\Debug\shellSort.pdb
